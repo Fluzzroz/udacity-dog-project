@@ -1,4 +1,4 @@
-##Transfer Learning application
+## Transfer Learning application
 
 This is my completion of an exercise from Udacity.com.
 My part consisted in applying my knowledge of transfer learning to get a dog classifier.
